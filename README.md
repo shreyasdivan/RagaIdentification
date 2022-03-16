@@ -1,6 +1,6 @@
 # RagaIdentification
 
-Its a case study on a binary classification problem of two ragas - 
+It's a case study on a binary classification problem of two ragas - 
   1. Yaman
   2. Bhairavi
 
