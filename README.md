@@ -1,4 +1,4 @@
-# RagaIdentification
+# Raga Identification using DL
 
 It's a case study on a binary classification problem of two ragas - 
   1. Yaman
